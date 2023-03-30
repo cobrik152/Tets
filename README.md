@@ -1,2 +1,2 @@
-# Tets
+# Test
 test repository

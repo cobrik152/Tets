@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TRPONet5.props" />
+</Project>
